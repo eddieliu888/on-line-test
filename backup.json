@@ -1,0 +1,115 @@
+{
+  "prompts": {
+    "L": {
+      "name": "大班",
+      "theme": "Nature",
+      "qs": [
+        "Let's take a picture here.",
+        "Say cheese",
+        "Cheese",
+        "",
+        "",
+        ""
+      ]
+    },
+    "M": {
+      "name": "中班",
+      "theme": "Fast Food",
+      "qs": [
+        "hamburger",
+        "french fries",
+        "chicken nuggets",
+        "apple pie",
+        "ice cream",
+        ""
+      ]
+    },
+    "S": {
+      "name": "小班",
+      "theme": "Snack Time",
+      "qs": [
+        "Nn night",
+        "night night say good night",
+        "Oo onion",
+        "onion, onion, makes you cry",
+        "",
+        ""
+      ]
+    }
+  },
+  "students": {
+    "eddie_S": {
+      "name": "eddie",
+      "level": "S",
+      "records": [
+        {
+          "date": "2026/03/12",
+          "theme": "Snack Time",
+          "qs": [
+            "Nn night",
+            "night night say good night",
+            "Oo onion",
+            "onion, onion, makes you cry",
+            "",
+            ""
+          ],
+          "scores": [
+            "Excellent",
+            "Excellent",
+            "Excellent",
+            "Excellent",
+            null,
+            null
+          ],
+          "feedbacks": {
+            "listen": false,
+            "speak": false,
+            "improve": true,
+            "pronun": true,
+            "incomp": false,
+            "other_check": false,
+            "other_text": ""
+          },
+          "teacher": "Eddie"
+        }
+      ]
+    },
+    "馬御閎_S": {
+      "name": "馬御閎",
+      "level": "S",
+      "records": [
+        {
+          "date": "2026/03/12",
+          "theme": "Snack Time",
+          "qs": [
+            "Nn night",
+            "night night say good night",
+            "Oo onion",
+            "onion, onion, makes you cry",
+            "",
+            ""
+          ],
+          "scores": [
+            "Excellent",
+            "Excellent",
+            "Excellent",
+            "Excellent",
+            null,
+            null
+          ],
+          "feedbacks": {
+            "listen": false,
+            "speak": false,
+            "improve": true,
+            "pronun": false,
+            "incomp": false,
+            "other_check": false,
+            "other_text": ""
+          },
+          "teacher": "Eddie"
+        }
+      ]
+    }
+  },
+  "teacherName": "Eddie"
+}
